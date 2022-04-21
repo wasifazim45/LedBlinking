@@ -4,6 +4,8 @@
 +  * SimulIde is a simple real time electronic circuit simulator which is open source.
 +  * SimulIde is not so much professional but it is very easy to use.
 +  * it have enough features for students to learn and do projects with microcontroller like PIC, AVR and Arduino boards.
++  
+
 
 +  * In our Project, here we created a circuit using a atmega328 microcontroller.
 +  * so i have connected 8 LED on the port B of the microcontroller atmega328.
