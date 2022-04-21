@@ -20,5 +20,10 @@
 +   * SPI - Yes
 +   * I2C - Yes
 +   * Minimum Operating Temperature - -40 C to +85 C
-+     
+
++
++ * (B) . Relay
++ *  (C) . Buzzer
++ *  (D) . Voltage Source ( 5v fixed)
++ *  (E) . 8 LED    
 +     
