@@ -25,5 +25,6 @@
 + * (B) . Relay
 + *  (C) . Buzzer
 + *  (D) . Voltage Source ( 5v fixed)
-+ *  (E) . 8 LED    
++ *  (E) . 8 LED  
++ *  (F) . Earthing ( 0v )  
 +     
