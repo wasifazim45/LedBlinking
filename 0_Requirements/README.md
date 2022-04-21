@@ -27,4 +27,5 @@
 + *  (D) . Voltage Source ( 5v fixed)
 + *  (E) . 8 LED  
 + *  (F) . Earthing ( 0v )  
++ *  (G) . Jumping Wires
 +     
